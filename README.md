@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how to use Git and GitHub together.
+This repository is for showing how to use Git and GitHub together, which is supported by Packt videos.
 
 ## Introduction
 
@@ -9,8 +9,6 @@ This example is to show different parts of the Git repository and various comman
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training.
-
-Sample website with plenty of files for demos
 
 ## Deployment
 
