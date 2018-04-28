@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how to use Git and GitHub together, which is supported by Packt videos.
-Adding a line for rebasing example.
+Adding a line for rebasing example, for purpose.
 
 ## Introduction
 
